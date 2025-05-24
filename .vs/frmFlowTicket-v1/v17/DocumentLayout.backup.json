@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\frmmantenimientoeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:frmmantenimientoeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\frmmantenimientoeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:frmmantenimientoeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\data access object\\eventodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:data access object\\eventodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\data access object\\facturasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:data access object\\facturasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\frmmenuadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:frmmenuadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\frmmenuadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:frmmenuadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\frmvereventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:frmvereventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\frmhistorialeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:frmhistorialeventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\data access object\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:data access object\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\frmhistorialusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:frmhistorialusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:modelos\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmhistorialusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:frmhistorialusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\historialfechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:historialfechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\historialfechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:historialfechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|c:\\users\\ricardo vasquez\\source\\repos\\frmflowticket-v1\\frmmenuuf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D3C574E-E01D-47C9-99BA-75EC9F14093D}|frmFlowTicket-v1.csproj|solutionrelative:frmmenuuf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMantenimientoEventos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmMantenimientoEventos.cs",
+              "RelativeDocumentMoniker": "frmMantenimientoEventos.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmMantenimientoEventos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmMantenimientoEventos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T00:08:35.117Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmReportes.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmReportes.cs",
+              "RelativeDocumentMoniker": "frmReportes.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmReportes.cs",
+              "RelativeToolTip": "frmReportes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:31:33.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMenuAdm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmMenuAdm.cs",
+              "RelativeDocumentMoniker": "frmMenuAdm.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmMenuAdm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmMenuAdm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:24:58.231Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMenuAdm.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmMenuAdm.cs",
+              "RelativeDocumentMoniker": "frmMenuAdm.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmMenuAdm.cs",
+              "RelativeToolTip": "frmMenuAdm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:30:22.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMantenimientoEventos.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmMantenimientoEventos.cs",
+              "RelativeDocumentMoniker": "frmMantenimientoEventos.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmMantenimientoEventos.cs",
+              "RelativeToolTip": "frmMantenimientoEventos.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwCAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T00:14:49.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\Data Access Object\\EventoDAO.cs",
+              "RelativeDocumentMoniker": "Data Access Object\\EventoDAO.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\Data Access Object\\EventoDAO.cs",
+              "RelativeToolTip": "Data Access Object\\EventoDAO.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAArwIUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T03:01:06.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturasDAO.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\Data Access Object\\FacturasDAO.cs",
+              "RelativeDocumentMoniker": "Data Access Object\\FacturasDAO.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\Data Access Object\\FacturasDAO.cs",
+              "RelativeToolTip": "Data Access Object\\FacturasDAO.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAADwv/gAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:26:57.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmReportes.cs",
+              "RelativeDocumentMoniker": "frmReportes.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:18:25.845Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmVerEventos.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmVerEventos.cs",
+              "RelativeDocumentMoniker": "frmVerEventos.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmVerEventos.cs",
+              "RelativeToolTip": "frmVerEventos.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T00:44:52.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmHistorialEventos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmHistorialEventos.cs",
+              "RelativeDocumentMoniker": "frmHistorialEventos.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmHistorialEventos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmHistorialEventos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T00:07:43.592Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\Data Access Object\\UsuarioDAO.cs",
+              "RelativeDocumentMoniker": "Data Access Object\\UsuarioDAO.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\Data Access Object\\UsuarioDAO.cs",
+              "RelativeToolTip": "Data Access Object\\UsuarioDAO.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAAiwDoBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T00:43:25.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmHistorialUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmHistorialUsuarios.cs",
+              "RelativeDocumentMoniker": "frmHistorialUsuarios.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmHistorialUsuarios.cs",
+              "RelativeToolTip": "frmHistorialUsuarios.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAhwEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T00:08:03.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HistorialFechas.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\HistorialFechas.cs",
+              "RelativeDocumentMoniker": "HistorialFechas.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\HistorialFechas.cs",
+              "RelativeToolTip": "HistorialFechas.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAD4vyAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:44:43.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\Modelos\\Evento.cs",
+              "RelativeDocumentMoniker": "Modelos\\Evento.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\Modelos\\Evento.cs",
+              "RelativeToolTip": "Modelos\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:49:39.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HistorialFechas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\HistorialFechas.cs",
+              "RelativeDocumentMoniker": "HistorialFechas.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\HistorialFechas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HistorialFechas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:34:06.152Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMenuUf.cs",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmMenuUf.cs",
+              "RelativeDocumentMoniker": "frmMenuUf.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmMenuUf.cs",
+              "RelativeToolTip": "frmMenuUf.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAhwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:21:35.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmHistorialUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmHistorialUsuarios.cs",
+              "RelativeDocumentMoniker": "frmHistorialUsuarios.cs",
+              "ToolTip": "C:\\Users\\RICARDO VASQUEZ\\source\\repos\\frmFlowTicket-v1\\frmHistorialUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmHistorialUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:13:01.474Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
