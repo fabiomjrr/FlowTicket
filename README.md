@@ -1,0 +1,1 @@
+This project, FlowTicket, is a C# Windows Forms application built with Visual Studio and the .NET Framework, designed to manage ticket sales and event bookings through features such as user login, ticket purchasing, transaction cancellation, event and invoice history views, and administrative controls—all packaged into an intuitive desktop interface.
